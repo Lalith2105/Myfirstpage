@@ -62,7 +62,7 @@ fresh water is unfrozen</li>
 	 	
 <hr>
 	 	
-<form action="http://space-facts.com/earth/">
+<form action="https://www.nationalgeographic.com/science/article/earth#:~:text=Earth%2C%20our%20home%20planet%2C%20is,liquid%20water%20on%20its%20surface.">
 	 	
 	 	 <p>Want to know more?</p>
 			
