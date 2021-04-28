@@ -11,14 +11,14 @@
 single step." />
 </head>
 <body>
-	<iframe width="660" height="415" src="https://www.youtube.com/embed/HCDVN7DCzYE" title="YouTube video player" frameborder="0" 
+	<iframe width="460" height="215" src="https://www.youtube.com/embed/HCDVN7DCzYE" title="YouTube video player" frameborder="0" 
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="right"></iframe>
 	 	
 <h1>Hello World!</h1>
 	 	<h2>A few facts about the world we live in</h2>
 <br>
 	 	
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg"  width="400" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg"  width="300" />
 	 	
 <p>Earth is the third planet from the Sun and is the largest of the
 terrestrial planets. Unlike the other planets in the solar system that are named
@@ -33,7 +33,7 @@ years ago and is the only known planet to support life.</p>
 <ul>
 	 	 <li><strong>Mass: </strong>5,972,190,000,000,000 billion kg</li>
 	 	 <li><strong>Diameter at equator: </strong>12,756 km</li>
-	 	 <li><strong>Satellites </strong><a href="http://space-facts.com/themoon/">The Moon</a></li>
+	 	 <li><strong>Satellites </strong><a href="https://www.nationalgeographic.com/science/article/earth#:~:text=Earth%2C%20our%20home%20planet%2C%20is,liquid%20water%20on%20its%20surface.">The Moon</a></li>
 	 	 <li><strong>Mass: </strong>5,972,190,000,000,000 billion kg</li>
 	 	 <li><strong>Mass:</strong>5,972,190,000,000,000 billion kg</li>
 </ul>
@@ -62,7 +62,7 @@ fresh water is unfrozen</li>
 	 	
 <hr>
 	 	
-<form action="https://www.nationalgeographic.com/science/article/earth#:~:text=Earth%2C%20our%20home%20planet%2C%20is,liquid%20water%20on%20its%20surface.">
+<form action="http://space-facts.com/earth/">
 	 	
 	 	 <p>Want to know more?</p>
 			
