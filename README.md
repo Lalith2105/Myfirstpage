@@ -11,7 +11,6 @@
 single step." />
 </head>
 <body>
-<iframe src="helloworld.html" align="right"></iframe>
 	 	
 <h1>Hello World!</h1>
 	 	
@@ -19,6 +18,7 @@ single step." />
 <br><br><br>
 	 	
 <img src="images/earth.jpg" align="left" width="400" />
+<hr />
 	 	
 <p>Earth is the third planet from the Sun and is the largest of the
 terrestrial planets. Unlike the other planets in the solar system that are named
