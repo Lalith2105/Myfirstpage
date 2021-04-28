@@ -11,14 +11,14 @@
 single step." />
 </head>
 <body>
-	<iframe width="460" height="315" src="https://www.youtube.com/embed/HCDVN7DCzYE" title="YouTube video player" frameborder="0" 
+	<iframe width="660" height="415" src="https://www.youtube.com/embed/HCDVN7DCzYE" title="YouTube video player" frameborder="0" 
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="right"></iframe>
 	 	
 <h1>Hello World!</h1>
 	 	<h2>A few facts about the world we live in</h2>
 <br>
 	 	
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg"  width="300" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg"  width="400" />
 	 	
 <p>Earth is the third planet from the Sun and is the largest of the
 terrestrial planets. Unlike the other planets in the solar system that are named
