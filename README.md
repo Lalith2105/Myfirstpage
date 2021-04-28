@@ -18,7 +18,7 @@ single step." />
 	 	<h2>A few facts about the world we live in</h2>
 <br>
 	 	
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg"  width="400" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg"  width="300" />
 	 	
 <p>Earth is the third planet from the Sun and is the largest of the
 terrestrial planets. Unlike the other planets in the solar system that are named
