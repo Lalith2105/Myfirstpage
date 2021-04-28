@@ -33,7 +33,7 @@ years ago and is the only known planet to support life.</p>
 <ul>
 	 	 <li><strong>Mass: </strong>5,972,190,000,000,000 billion kg</li>
 	 	 <li><strong>Diameter at equator: </strong>12,756 km</li>
-	 	 <li><strong>Satellites </strong><a href="https://www.nationalgeographic.com/science/article/earth#:~:text=Earth%2C%20our%20home%20planet%2C%20is,liquid%20water%20on%20its%20surface.">The Moon</a></li>
+	 	 <li><strong>Satellites </strong><a href="http://space-facts.com/themoon/">The Moon</a></li>
 	 	 <li><strong>Mass: </strong>5,972,190,000,000,000 billion kg</li>
 	 	 <li><strong>Mass:</strong>5,972,190,000,000,000 billion kg</li>
 </ul>
@@ -62,7 +62,7 @@ fresh water is unfrozen</li>
 	 	
 <hr>
 	 	
-<form action="http://space-facts.com/earth/">
+<form action="https://www.nationalgeographic.com/science/article/earth#:~:text=Earth%2C%20our%20home%20planet%2C%20is,liquid%20water%20on%20its%20surface.">
 	 	
 	 	 <p>Want to know more?</p>
 			
